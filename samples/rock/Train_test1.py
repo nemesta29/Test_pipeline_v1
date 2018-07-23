@@ -7,6 +7,9 @@ import skimage.draw
 import cv2
 import matplotlib.pyplot as plt
 
+#To download pretrained weights
+#https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5
+
 # Root directory of the project
 ROOT_DIR = os.path.abspath("../../")
 
